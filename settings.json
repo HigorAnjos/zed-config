@@ -24,6 +24,17 @@
     "font_family": "JetBrainsMono Nerd Font"
   },
   "vim_mode": true,
+  "vim": {
+    "toggle_relative_line_numbers": true,
+    "use_system_clipboard": "always",
+    "use_smartcase_find": true,
+    "highlight_on_yank_duration": 200
+  },
+  "tab_size": 4,
+  "hard_tabs": false,
+  "soft_wrap": "none",
+  "vertical_scroll_margin": 8,
+  "rulers": [80],
   "agent": {
     "dock": "right",
     "play_sound_when_agent_done": "never",
@@ -50,6 +61,6 @@
   "theme": {
     "mode": "dark",
     "light": "macOS Classic Light",
-    "dark": "Catppuccin Mocha (Blur) [Light]",
+    "dark": "Nightfox - blurred",
   },
 }
